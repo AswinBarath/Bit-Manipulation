@@ -10,7 +10,7 @@ Problems based on the Bit Manipulation technique
 
 | Completion Status | Problems on Bit Manipulation | Explanation | Solution |
 | --- | --- | --- | --- |
-| 🔃 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
+| ✅ | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Approach](#) | [Java Soultion](./src/sde_sheet/IsPowerOfTwo.java) |
 | 🔃 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
 | 🔃 | [Divide two integers without using multiplication, division and mod operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
 | 🔃 | [Subsets](https://leetcode.com/problems/subsets/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/.java) |
